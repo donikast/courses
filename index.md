@@ -1,6 +1,11 @@
 ---
 title: Home
 layout: home
+section: ООП 1
+title: Тема 1
+layout: home
+itle: Тема 2
+layout: home
 ---
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
